@@ -14,6 +14,8 @@ Un editor de texto básico desarrollado en Python, al que se le están añadiend
 
 Más detalles que podrás ver si clonas el repositorio y pruebas el editor!!
 
+# 🖼️ Imagen editor
+![](pic_editor.png)
 
 # ✉️ Contacto
 mactoscan@gmail.com
