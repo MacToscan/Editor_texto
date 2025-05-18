@@ -14,6 +14,13 @@ Un editor de texto básico desarrollado en Python, al que se le están añadiend
 
 Más detalles que podrás ver si clonas el repositorio y pruebas el editor!!
 
+## Librerias
+
+Implementación de las siguientes librerías:
+* tkinter: *
+* from tkinter: filedialog, font, colorchooser
+* os
+
 # 🖼️ Imagen editor
 ![](pic_editor.png)
 
